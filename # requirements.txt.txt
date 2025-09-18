@@ -1,0 +1,6 @@
+# requirements.txt
+
+streamlit
+transformers
+torch
+yt-dlp
